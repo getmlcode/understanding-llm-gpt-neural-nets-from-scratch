@@ -1,1 +1,1 @@
-# Understading LLM, GPT and Neural Nets From Scratch
+### Understading LLM, GPT and Neural Nets From Scratch
