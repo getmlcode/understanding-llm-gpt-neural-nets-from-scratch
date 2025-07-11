@@ -43,8 +43,44 @@ I have shared the snapshots of those chats below as future reference for myself 
 ![Chat Snapshot 1](chat_gpt_brainstorming/lr_schedule_1.jpg)
 ![Chat Snapshot 1](chat_gpt_brainstorming/lr_schedule_2.jpg)
 ![Chat Snapshot 1](chat_gpt_brainstorming/lr_schedule_3.jpg)
-![Chat Snapshot 1](chat_gpt_brainstorming/lr_schedule_4.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/lr_schedule_4.jpg)c
+</details>
 
+---
+
+Andrej spent considerable time on training dynamics of neural networks and daignostic tools for detecting, debugging issues with neural network training using various graph plots of several quantities.
+
+![Chat Snapshot 1](chat_gpt_brainstorming/traning_dynamic_1.png)
+![Chat Snapshot 1](chat_gpt_brainstorming/traning_dynamic_3.png)
+![Chat Snapshot 1](chat_gpt_brainstorming/traning_dynamic_4.png)
+
+<details>
+<summary>Neural network training dynamics, diagnostic tools and techniques</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_5.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_6.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_7.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_9.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_10.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_11.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_12.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_13.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_14.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_15.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_16.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_17.jpg)
+
+</details>
+
+<details>
+<summary> Weight, activations and gradient Distribution</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_18.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_19.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_20.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_21.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_22.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_23.jpg)
 
 </details>
 
