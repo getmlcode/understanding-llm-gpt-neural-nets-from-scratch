@@ -12,14 +12,15 @@ Following are covered in the lectures:
 * Briefly touched upon post training processes related to LLM (GPT here)
 
 ## My Appraoch
-As opposed to just watching them and taking hand written notes, I coded along which made me think a lot more on what was being taught.  
+As opposed to just watching the lectures and taking handwritten notes, I actively coded along with them. This made me think deeply on what was being taught.  
 
 My notebooks here are slightly different from the lectures in following ways:
-* I have `retained experimental cells`, which he used for explaining concepts and later deleted to avoid clutter, so that it easier to understand later on.
+* I have intentionally `retained experimental cells`, which he used for explaining concepts and later deleted to avoid clutter, so that it easier to understand later on.
 * I have noted `important comments` made by him while explaining some concepts
 
-While watching these lectures, I had lot of doubts and concerns regarding various comments made by him and many concepts that were introduced in them. To make better sense of them inside my brain, I had to engaged in deep discussion session with ChatGPT which were really insightful and helped a lot in understanding lecture content a lot better.  
+## Discussion with ChatGPT
+While watching the lectures, I had many doubts and concerns about various comments and concepts introduced by Andrej. To make better sense of them, I engaged in `deep discussion sessions with ChatGPT`, which turned out to be highly insightful and significantly improved my understanding of the lecture content  
 
-I have shared the snapshots of those chats below for future reference for myself or anyone who may find them useful.
+I have shared the snapshots of those chats below as future reference for myself or anyone who may find them useful.
 
 
