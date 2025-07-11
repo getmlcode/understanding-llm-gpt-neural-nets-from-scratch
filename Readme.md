@@ -18,10 +18,10 @@ My notebooks here are slightly different from the lectures in following ways:
 * I have intentionally `retained experimental cells`, which he used for explaining concepts and later deleted to avoid clutter, so that it easier to understand later on.
 * I have noted `important comments` made by him while explaining some concepts
 
-## Questions & Deep Dives with ChatGPT
+## Brainstorming with ChatGPT
 While watching the lectures, I had many doubts and concerns about various comments and concepts introduced by Andrej. To make better sense of them, I engaged in `deep discussion sessions with ChatGPT`, which turned out to be highly insightful and significantly improved my understanding of the lecture content  
 
-I have shared the snapshots of those chats below as future reference for myself or anyone who may find them useful.
+I have shared the snapshots of those chats below as future reference for myself or anyone who may find them useful (visible on expanding through).
 
 <details>
 <summary>Why would I have low learning rate for layers close to input when gradient is already low there ?</summary>
@@ -34,6 +34,17 @@ I have shared the snapshots of those chats below as future reference for myself 
 ![Chat Snapshot 1](chat_gpt_brainstorming/low%20lr%20for%20early%20layers%202.jpg)
 
 ![Chat Snapshot 1](chat_gpt_brainstorming/low%20lr%20for%20early%20layers%203.jpg)
+
+</details>
+
+<details>
+<summary>Should we vary learning rate depending on state of the network, layer position and whether we are training from scratch or not ?</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/lr_schedule_1.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/lr_schedule_2.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/lr_schedule_3.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/lr_schedule_4.jpg)
+
 
 </details>
 
