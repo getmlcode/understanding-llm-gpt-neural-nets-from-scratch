@@ -18,9 +18,25 @@ My notebooks here are slightly different from the lectures in following ways:
 * I have intentionally `retained experimental cells`, which he used for explaining concepts and later deleted to avoid clutter, so that it easier to understand later on.
 * I have noted `important comments` made by him while explaining some concepts
 
-## Discussion with ChatGPT
+## Questions & Deep Dives with ChatGPT
 While watching the lectures, I had many doubts and concerns about various comments and concepts introduced by Andrej. To make better sense of them, I engaged in `deep discussion sessions with ChatGPT`, which turned out to be highly insightful and significantly improved my understanding of the lecture content  
 
 I have shared the snapshots of those chats below as future reference for myself or anyone who may find them useful.
+
+<details>
+<summary>Why would I have low learning rate for layers close to input when gradient is already low there ?</summary>
+
+**Question Motivation**:
+- Without alternate explanation, basic intution should tell you learning rate should compensate for low gradient in initial layers due to cascaded multilication, intentionally wanting it to be low for early layers needs better explanation
+
+![Chat Snapshot 1](chat_gpt_brainstorming/low_lr_for_early_layers_1.jpg)
+
+![Chat Snapshot 1](chat_gpt_brainstorming/low%20lr%20for%20early%20layers%202.jpg)
+
+![Chat Snapshot 1](chat_gpt_brainstorming/low%20lr%20for%20early%20layers%203.jpg)
+
+</details>
+
+
 
 
