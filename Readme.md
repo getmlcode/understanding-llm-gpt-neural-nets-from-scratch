@@ -1,6 +1,11 @@
 ## Understading LLM, GPT and Neural Nets From Scratch
 This repository contains Jupyter notebooks created while coding along with Andrej Karpathy's `Neural Networks: Zero to Hero` lecture series.  
 
+In a podcas with Lex Fridman, He shared how he surprised himself when results for some experiment weren't as he expected and he too learnt something from it while `Going back to basics`
+
+[![Watch on YouTube](andrej.png)](https://www.youtube.com/watch?v=I2ZK3ngNvvI)
+
+
 Following are covered in the lectures:  
 * Backpropagation coded from scratch, `No Autograd`. Intution developed from calculus chain rule and coded in real time
 * `Batch normalization` coded and dsicussed in detail
