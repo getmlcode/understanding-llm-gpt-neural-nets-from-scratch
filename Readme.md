@@ -134,3 +134,25 @@ Andrej spent considerable time on training dynamics of neural networks and daign
 ![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_58.jpg)
 
 </details>
+
+<details>
+<summary> Should we initialize weights so that all outputs at the start are equally likely ?</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_59.jpg)
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_60.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_61.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_62.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_63.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_64.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_65.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_66.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_67.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_68.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_69.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_70.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_71.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_72.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_73.jpg)
+
+</details>
