@@ -134,5 +134,3 @@ Andrej spent considerable time on training dynamics of neural networks and daign
 ![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_58.jpg)
 
 </details>
-
-
