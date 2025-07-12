@@ -85,10 +85,54 @@ Andrej spent considerable time on training dynamics of neural networks and daign
 ![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_20.jpg)
 ![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_21.jpg)
 ![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_22.jpg)
-![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_23.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_24.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_25.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_26.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_27.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_28.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_29.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_30.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_31.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_32.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_33.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_34.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_35.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_36.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_37.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_38.jpg)
 
 </details>
 
+<details>
+<summary> We are making distributions to be zero mean normals, so these are small numbers and they will multiply and produce smaller numbers, so how does this make sense, there seems to be opposing forces here</summary>
 
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_39.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_40.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_41.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_42.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_43.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_44.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_45.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_46.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_47.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_48.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_49.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_50.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_51.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_52.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_53.jpg)
+
+</details>
+
+<details>
+<summary> Is training neural net same as learning from data ?</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_54.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_55.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_56.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_57.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_58.
+
+</details>
 
 
