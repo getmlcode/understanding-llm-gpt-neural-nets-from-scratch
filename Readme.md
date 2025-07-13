@@ -136,7 +136,7 @@ Andrej spent considerable time on training dynamics of neural networks and daign
 </details>
 
 <details>
-<summary> Should we initialize weights so that all outputs at the start are equally likely ?</summary>
+<summary> Should we initialize weights so that all outputs at the start are equally likely to start with ?</summary>
 
 ![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_59.jpg)
 
@@ -154,5 +154,89 @@ Andrej spent considerable time on training dynamics of neural networks and daign
 ![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_71.jpg)
 ![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_72.jpg)
 ![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_73.jpg)
+
+</details>
+
+<details>
+<summary> What is symmetry breaking and how does it reate to neural nets ?</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_74.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_75.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_76.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_77.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_78.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_79.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_80.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_81.jpg)
+
+</details>
+
+<details>
+<summary> Dead neurons, learning rate, data manifold how do they relate ?</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_82.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_83.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_84.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_85.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_86.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_87.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_88.jpg)
+
+</details>
+
+<details>
+<summary> Are dead neurons really a training bug or they tell something meaningful ?</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_89.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_90.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_91.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_92.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_93.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_94.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_95.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_96.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_97.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_98.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_99.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_101.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_102.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_103.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_104.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_105.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_106.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_107.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_108.jpg)
+
+</details>
+
+<details>
+<summary> Are there research work concerning interpretation of dead neurons ?</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_108.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_109.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_110.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_111.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_112.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_113.jpg)
+
+
+</details>
+
+<details>
+<summary> ChatGPT is good at feeding to your Narcissism ;)</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_114.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_115.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_116.jpg)
+</details>
+
+<details>
+<summary> Batchnorm layer as regularizer</summary>
+
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_117.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_118.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_119.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_120.jpg)
+![Chat Snapshot 1](chat_gpt_brainstorming/training_dynamic_121.jpg)
 
 </details>
